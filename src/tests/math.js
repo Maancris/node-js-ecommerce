@@ -1,0 +1,9 @@
+
+const checkInteger = (value) =>{
+    if (value === 5) return true;
+    else return false
+};
+
+module.exports = {
+    checkInteger
+}
